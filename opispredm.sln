@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opispredm", "opispredm\opispredm.csproj", "{481F46DB-A5BD-4662-9468-5B9C16DC0F22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F7489C09-3E86-4AAA-BCBD-B802BEFD8A62}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481F46DB-A5BD-4662-9468-5B9C16DC0F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481F46DB-A5BD-4662-9468-5B9C16DC0F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481F46DB-A5BD-4662-9468-5B9C16DC0F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481F46DB-A5BD-4662-9468-5B9C16DC0F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8829C773-B0E2-4CAA-8F54-3C1437440FD2}
+	EndGlobalSection
+EndGlobal
