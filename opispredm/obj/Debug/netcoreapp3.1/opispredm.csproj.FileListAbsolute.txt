@@ -1,0 +1,13 @@
+C:\Users\elitefucker\source\repos\opispredm\opispredm\bin\Debug\netcoreapp3.1\opispredm.exe
+C:\Users\elitefucker\source\repos\opispredm\opispredm\bin\Debug\netcoreapp3.1\opispredm.deps.json
+C:\Users\elitefucker\source\repos\opispredm\opispredm\bin\Debug\netcoreapp3.1\opispredm.runtimeconfig.json
+C:\Users\elitefucker\source\repos\opispredm\opispredm\bin\Debug\netcoreapp3.1\opispredm.runtimeconfig.dev.json
+C:\Users\elitefucker\source\repos\opispredm\opispredm\bin\Debug\netcoreapp3.1\opispredm.dll
+C:\Users\elitefucker\source\repos\opispredm\opispredm\bin\Debug\netcoreapp3.1\opispredm.pdb
+C:\Users\elitefucker\source\repos\opispredm\opispredm\obj\Debug\netcoreapp3.1\opispredm.csprojAssemblyReference.cache
+C:\Users\elitefucker\source\repos\opispredm\opispredm\obj\Debug\netcoreapp3.1\opispredm.csproj.CoreCompileInputs.cache
+C:\Users\elitefucker\source\repos\opispredm\opispredm\obj\Debug\netcoreapp3.1\opispredm.AssemblyInfoInputs.cache
+C:\Users\elitefucker\source\repos\opispredm\opispredm\obj\Debug\netcoreapp3.1\opispredm.AssemblyInfo.cs
+C:\Users\elitefucker\source\repos\opispredm\opispredm\obj\Debug\netcoreapp3.1\opispredm.dll
+C:\Users\elitefucker\source\repos\opispredm\opispredm\obj\Debug\netcoreapp3.1\opispredm.pdb
+C:\Users\elitefucker\source\repos\opispredm\opispredm\obj\Debug\netcoreapp3.1\opispredm.genruntimeconfig.cache
